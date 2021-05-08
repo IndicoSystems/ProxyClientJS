@@ -1,6 +1,6 @@
 {
   "name": "@indico/proxy-client-js",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A client-library for using Indico Proxy",
   "author": "Runar Kristoffersen <runar@indicosys.com>",
   "repository": "https://github.com/IndicoSystems/ProxyClientJS.git",
